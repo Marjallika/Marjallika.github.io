@@ -1,5 +1,6 @@
+
 body{
-	background-color: beige
+	background-image: url("lala.jpeg");
 	}
 h1{
 	color: blue;
@@ -14,4 +15,4 @@ p{
 }
 .center={
 		text-align: center;
-		}
+}
